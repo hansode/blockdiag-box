@@ -11,3 +11,4 @@ set -x
 
 easy_install blockdiag
 easy_install nwdiag
+easy_install seqdiag
